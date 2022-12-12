@@ -1,0 +1,10 @@
+apiVersion: v1
+data:
+  name: rennan
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2022-12-12T11:09:01Z"
+  name: guestbook-cm
+  namespace: default
+  resourceVersion: "4920"
+  uid: 4f8eced3-a7c4-4e51-8884-a4d1b6a340bb
